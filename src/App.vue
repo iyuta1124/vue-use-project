@@ -3,13 +3,7 @@ import VueUseDemo from './components/VueUseDemo.vue'
 </script>
 
 <template>
-  <main>
-    <VueUseDemo />
-  </main>
+  <VueUseDemo />
 </template>
 
-<style scoped>
-main {
-  padding: 2rem;
-}
-</style>
+<style scoped></style>
